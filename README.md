@@ -14,8 +14,6 @@ Consolidating EU AI Act, NIST RMF, OECD, UNESCO, and ISO/IEC into 12 operational
 
 ## 📚 Repository Contents
 
-## 📚 Repository Contents
-
 | File                                                                                                    | Description                                                    |
 | :-------------------------------------------------------------------------------------------------------| :------------------------------------------------------------- |
 | [📄 GLOBAL_SIGMA_RESEARCH_EDITION.pdf](./standard/GLOBAL_SIGMA_PUBLIC_STANDARD_RESEARCH_EDITION.pdf)    | The complete framework (P1-P12, Risk Tiers, Audit Methodology)|
