@@ -14,21 +14,12 @@ Consolidating EU AI Act, NIST RMF, OECD, UNESCO, and ISO/IEC into 12 operational
 
 ## 📚 Repository Contents
 
-| File                                                                                                    | Description                                                    |
-| :-------------------------------------------------------------------------------------------------------| :------------------------------------------------------------- |
-| [📄 GLOBAL_SIGMA_RESEARCH_EDITION.pdf](./standard/GLOBAL_SIGMA_PUBLIC_STANDARD_RESEARCH_EDITION.pdf)    | The complete framework (P1-P12, Risk Tiers, Audit Methodology)|
-| [🛠️ Self Assessment Tool](./tools/GLOBAL_SIGMA_PUBLIC_STANDARD_Annex_A_Self_Assessment_Tool)            | Editable matrix for self-evaluation against the 12 principles |
-| [📋 Executive Summary (EN/ES)](./annexes/GLOBAL_SIGMA_PUBLIC_STANDARD_Executive_Summary_EN_ES.pdf)      | Bilingual 1-pager for decision-makers                         |
-| [🔗 Immutability Patterns Guide](./annexes/GLOBAL_SIGMA_PUBLIC_STANDARD_Immutability_Pattern_Guide.pdf) | Technical patterns for forensic-proof certification (Annex G) |
-
-
-## 📚 Repository Contents (Cross-Branch Navigation)
-
-| Resource | Link to Branch | Description |
-| :--- | :--- | :--- |
-| [📄 Standard PDF](https://github.com/lunalfaro/global-sigma-standard-/tree/standard) | `branch: standard` | The complete framework |
-| [🛠️ Assessment Tool](https://github.com/lunalfaro/global-sigma-standard-/tree/tools) | `branch: tools` | Editable matrix for self-evaluation |
-| [📂 Annexes & Guides](https://github.com/lunalfaro/global-sigma-standard-/tree/annexes) | `branch: annexes` | Executive Summary and Immutability Guide |
+| File                                    | Description                                                    |
+| :---------------------------------------| :------------------------------------------------------------- |
+| [📄 GLOBAL_SIGMA_RESEARCH_EDITION.pdf]  | The complete framework (P1-P12, Risk Tiers, Audit Methodology)|
+| [🛠️ Self Assessment Tool]               | Editable matrix for self-evaluation against the 12 principles |
+| [📋 Executive Summary (EN/ES)]          | Bilingual 1-pager for decision-makers                         |
+| [🔗 Immutability Patterns Guide]        | Technical patterns for forensic-proof certification (Annex G) |
 
 ## 🚀 Quick Start
 
