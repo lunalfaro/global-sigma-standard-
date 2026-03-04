@@ -1,5 +1,6 @@
 # Global Sigma
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18866997.svg)](https://doi.org/10.5281/zenodo.18866997)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Research Validation](https://img.shields.io/badge/Status-Research%20Edition%202026--2027-yellow)](https://github.com/lunalfaro/global-sigma-standard-)
 [![EU AI Act](https://img.shields.io/badge/Aligns%20with-EU%20AI%20Act%20(Art.%209--15)-purple)](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence)
@@ -25,17 +26,17 @@ Consolidating EU AI Act, NIST RMF, OECD, UNESCO, and ISO/IEC into 12 operational
 
 ## 🚀 Quick Start
 
-1. **Classify your system** using Risk Tier logic (T1-T4)
-2. **Self-assess** with the Annex A tool
-3. **Identify Vetos** - Remediable vs. Irremediable
-4. **Seek Certification** (if Tier 3/4 in regulated jurisdictions)
+1. **Classify your system** using Risk Tier logic (T1-T4).
+2. **Self-assess** with the Annex A tool.
+3. **Identify Vetos** - Remediable vs. Irremediable.
+4. **Seek Certification** (if Tier 3/4 in regulated jurisdictions).
 
 ## 📖 Citation & Metadata
 
 If you reference this work in academic or professional papers, please use:
 
 **APA 7th Edition:**
-> Alfaro Montero, P. M. (2026). *Global Sigma Public Standard: Open framework for certification of high-risk AI systems* (Official Research Validation Edition v3.1). GitHub. https://github.com/lunalfaro/global-sigma-standard-
+> Alfaro Montero, P. M. (2026). *Global Sigma Public Standard: Open framework for certification of high-risk AI systems* (Official Research Validation Edition v3.1). Zenodo. https://doi.org/10.5281/zenodo.18866997
 
 **Keywords for Indexing:**
 `AI Governance, AI Certification, High-Risk AI Systems, EU AI Act Compliance, Technical Conformity, Reproducible Determinism, Algorithmic Audit, Immutability Patterns, AI Ethics, Trustworthy AI, Risk Tier Classification, Open Framework.`
