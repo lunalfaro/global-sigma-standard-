@@ -1,0 +1,113 @@
+# GLOBAL SIGMA v3.1
+## Executive Summary / Resumen Ejecutivo
+
+---
+
+## ENGLISH
+
+### 🔍 THE CHALLENGE
+
+Legal frameworks (EU AI Act) mandate **WHAT** to do.
+Management standards (ISO 42001) guide **HOW** to govern.
+**BUT neither provides VERIFIABLE, AUDITABLE properties** for High-Risk AI Systems.
+
+### ✅ OUR RESPONSE
+
+Global Sigma operationalizes **12 Principles (P1-P12)** from:
+- EU AI Act (Articles 9-15)
+- NIST AI RMF
+- OECD AI Principles
+- UNESCO Ethics Recommendations
+- ISO/IEC 23894
+
+### 💡 KEY INNOVATION
+
+**Two distinct paths:**
+
+| Technical Conformity | Certification |
+|---------------------|---------------|
+| P1-P12 adherence | Conformity + immutability |
+| No immutability required | Cryptographic/forensic proof required |
+| No formal auditor | Independent third-party audit |
+| Suitable for development | **MANDATORY for Tier 3/4 in regulated jurisdictions** |
+
+### ⚠️ VETO LOGIC
+
+A system **CANNOT be certified** if it has:
+
+| Veto | Condition | Type |
+|------|-----------|------|
+| D2 | P2 <80% reproducibility | **Irremediable** |
+| D4 | P8 <85% escalation | **Irremediable** |
+| D11 | Modifiable logs without trail | **Irremediable** |
+| - | P7 Non-compliant | All vetoes default to irremediable |
+
+### 📊 RISK TIERS
+
+| Tier | Classification | Certification |
+|------|---------------|---------------|
+| 1 | Minimal Risk | Not Applicable |
+| 2 | Limited Risk | Voluntary |
+| 3 | High Risk | **MANDATORY*** |
+| 4 | Critical Risk | **MANDATORY (enhanced)** |
+
+*If regulated jurisdiction applies
+
+---
+
+## ESPAÑOL
+
+### 🔍 EL DESAFÍO
+
+Los marcos legales (EU AI Act) exigen **QUÉ** hacer.
+Los estándares de gestión (ISO 42001) guían **CÓMO** gobernar.
+**PERO ninguno proporciona PROPIEDADES VERIFICABLES Y AUDITABLES** para Sistemas de IA de Alto Riesgo.
+
+### ✅ NUESTRA RESPUESTA
+
+Global Sigma operacionaliza **12 Principios (P1-P12)** de:
+- EU AI Act (Artículos 9-15)
+- NIST AI RMF
+- Principios de IA de la OCDE
+- Recomendaciones de Ética de UNESCO
+- ISO/IEC 23894
+
+### 💡 INNOVACIÓN CLAVE
+
+**Dos vías distintas:**
+
+| Conformidad Técnica | Certificación |
+|---------------------|---------------|
+| Adherencia a P1-P12 | Conformidad + inmutabilidad |
+| Sin inmutabilidad requerida | Prueba criptográfica/forense requerida |
+| Sin auditor formal | Auditoría independiente de tercera parte |
+| Adecuado para desarrollo | **OBLIGATORIO para Tier 3/4 en jurisdicciones reguladas** |
+
+### ⚠️ LÓGICA DE VETO
+
+Un sistema **NO PUEDE ser certificado** si tiene:
+
+| Veto | Condición | Tipo |
+|------|-----------|------|
+| D2 | P2 <80% de reproducibilidad | **Irremediable** |
+| D4 | P8 <85% de escalamiento | **Irremediable** |
+| D11 | Logs modificables sin rastro | **Irremediable** |
+| - | P7 No conforme | Todos los vetos se vuelven irremediables |
+
+### 📊 NIVELES DE RIESGO
+
+| Nivel | Clasificación | Certificación |
+|-------|---------------|---------------|
+| 1 | Riesgo Mínimo | No Aplica |
+| 2 | Riesgo Limitado | Voluntaria |
+| 3 | Alto Riesgo | **OBLIGATORIA*** |
+| 4 | Riesgo Crítico | **OBLIGATORIA (reforzada)** |
+
+*Si aplica jurisdicción regulada
+
+---
+
+*GLOBAL SIGMA PUBLIC STANDARD v3.1 - Research Validation Edition (2026-2027)*
+*Autor: Dra. Paula Melissa Alfaro Montero*
+*Licencia: CC BY-SA 4.0*
+*Repositorio: github.com/lunalfaro/global-sigma-standard*
