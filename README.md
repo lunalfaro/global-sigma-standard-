@@ -20,9 +20,9 @@ Consolidating EU AI Act, NIST RMF, OECD, UNESCO, and ISO/IEC into 12 operational
 | File | Description |
 | :--- | :--- |
 | [📄 GLOBAL_SIGMA_RESEARCH_EDITION.pdf](./GLOBAL_SIGMA_PUBLIC_STANDARD_RESEARCH_EDITION.pdf) | The complete framework (P1-P12, Risk Tiers, Audit Methodology) |
-| [🛠️ Self Assessment Tool](./GLOBAL_SIGMA_PUBLIC_STANDARD_Annex_A_Self_Assessment_Tool) | Editable matrix for self-evaluation against the 12 principles |
+| [🛠️ Self Assessment Tool](./GLOBAL_SIGMA_PUBLIC_STANDARD_Annex_A_Self_Assessment_Tool.txt) | Editable matrix for self-evaluation against the 12 principles |
 | [📋 Executive Summary (EN/ES)](./GLOBAL_SIGMA_PUBLIC_STANDARD_Executive_Summary_EN_ES.pdf) | Bilingual 1-pager for decision-makers |
-| [🔗 Immutability Patterns Guide](./GLOBAL_SIGMA_PUBLIC_STANDARD_Immutability_Patterns_Guide.pdf) | Technical patterns for forensic-proof certification (Annex G) |
+| [🔗 Immutability Patterns Guide](./GLOBAL_SIGMA_PUBLIC_STANDARD_Immutability_Pattern_Guide.pdf) | Technical patterns for forensic-proof certification (Annex G) |
 
 ## 🚀 Quick Start
 
